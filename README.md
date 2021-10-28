@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Friends!
+Toshada heer, I like Java , C,C++ ,Python programming.
